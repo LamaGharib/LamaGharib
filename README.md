@@ -1,16 +1,19 @@
-### Hi there 👋
+ 
 
-<!--
-**LamaGharib/LamaGharib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there, I'm Lama!👋       
+    
+- 🔭 I’m currently working at Crea Cafe                                                  
+- 🌱 I’m currently learning programming 
+- ⚡ Fun fact: I'm working on an art project for the Amsterdam Light Festival 👩‍🎨 
+- 🧐 You can find me on http://bit.ly/LAMALINKEDIN 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamaGharib&theme=vision-friendly-dark" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamaGharib&show_icons=true&theme=vision-friendly-dark)
+
+
+
+
